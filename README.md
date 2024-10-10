@@ -1,6 +1,4 @@
-# python-reverseShell
-A simple reverse shell writen purely in python
-
+A reverse shell written in purely python
 
 lntroduction
 
